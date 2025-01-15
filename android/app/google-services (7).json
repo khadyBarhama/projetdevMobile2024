@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "422577498065",
+    "project_id": "cooking-e97e3",
+    "storage_bucket": "cooking-e97e3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:422577498065:android:e5b322fc6bffbc5b2d22f0",
+        "android_client_info": {
+          "package_name": "com.cooking.flutter4"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlM6YV7CqWJ8fksqim951tuTc_7Zxif48"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:422577498065:android:126b307f638b3d552d22f0",
+        "android_client_info": {
+          "package_name": "com.cooking.flutter4"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlM6YV7CqWJ8fksqim951tuTc_7Zxif48"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:422577498065:android:b612019fe449d2f82d22f0",
+        "android_client_info": {
+          "package_name": "com.cooking.flutter4"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlM6YV7CqWJ8fksqim951tuTc_7Zxif48"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
